@@ -1,6 +1,6 @@
 # Blackjack
 ---
-## [Live Demo](http://julies-blackjack.bitballoon.com/)
+## [Live Demo](http://blackjack.briley.org)
 
 ## What It Is
 Simple blackjack game
