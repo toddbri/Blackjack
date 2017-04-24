@@ -5,6 +5,10 @@
 ## What It Is
 Simple blackjack game
 
+## Team members
+* Todd Briley
+* Julie Dyer
+
 ## Languages used
 * HTML
 * CSS
